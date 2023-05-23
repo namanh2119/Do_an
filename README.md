@@ -46,9 +46,3 @@ npm run prod
 MÃ THẺ: 4242424242424242
 HẠN THẺ: 12/34
 CVC: 567
-
-```
-<p align="center">
-	<img src="https://i.pinimg.com/originals/56/a7/b8/56a7b8e4953907848148e15efa28ae81.gif" width = "500" alt="TNT">
-	</a>
-</p>
