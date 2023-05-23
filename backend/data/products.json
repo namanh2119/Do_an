@@ -1,0 +1,668 @@
+[{
+  "_id": {
+    "$oid": "6463822fd969391c84559391"
+  },
+  "price": 35000,
+  "ratings": 0,
+  "stock": 100,
+  "numOfReviews": 0,
+  "name": "Nem nướng",
+  "description": "nem",
+  "category": "Thực phẩm chế biến",
+  "seller": "NN",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6463822fd969391c84559392"
+      },
+      "public_id": "products/k0iwzdjj4ulhkavibskt",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684242991/products/k0iwzdjj4ulhkavibskt.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:16:31.446Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638263d969391c84559393"
+  },
+  "price": 20000,
+  "ratings": 0,
+  "stock": 140,
+  "numOfReviews": 0,
+  "name": "Bánh mì",
+  "description": "bánh mì",
+  "category": "Thực phẩm chế biến",
+  "seller": "BM",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638263d969391c84559394"
+      },
+      "public_id": "products/ot7e2dzx8ptkbynsijef",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684243042/products/ot7e2dzx8ptkbynsijef.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:17:23.009Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646382fcd969391c84559395"
+  },
+  "price": 15000,
+  "ratings": 0,
+  "stock": 200,
+  "numOfReviews": 0,
+  "name": "Bò khô",
+  "description": "đồ khô",
+  "category": "Thực phẩm Khô - Gia Vị",
+  "seller": "DK",
+  "images": [
+    {
+      "_id": {
+        "$oid": "646382fcd969391c84559396"
+      },
+      "public_id": "products/vmia8lazblrlljuypbpb",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684243196/products/vmia8lazblrlljuypbpb.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:19:56.535Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463831fd969391c84559397"
+  },
+  "price": 35000,
+  "ratings": 0,
+  "stock": 100,
+  "numOfReviews": 0,
+  "name": "Bún đậu mẹt",
+  "description": "bún đậu mắm tôm",
+  "category": "Thực phẩm chế biến",
+  "seller": "BM",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6463831fd969391c84559398"
+      },
+      "public_id": "products/dubeu8dgb2nselbt55c5",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684243231/products/dubeu8dgb2nselbt55c5.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:20:31.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638731d969391c84559399"
+  },
+  "price": 15000,
+  "ratings": 0,
+  "stock": 2000,
+  "numOfReviews": 0,
+  "name": "Cá chỉ vàng",
+  "description": "cá 15k/5g",
+  "category": "Thực phẩm Khô - Gia Vị",
+  "seller": "DK",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638731d969391c8455939a"
+      },
+      "public_id": "products/t0x7ht3g3ihwbuh3kkg4",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244273/products/t0x7ht3g3ihwbuh3kkg4.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:37:53.994Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463874fd969391c8455939b"
+  },
+  "price": 35000,
+  "ratings": 0,
+  "stock": 120,
+  "numOfReviews": 0,
+  "name": "Cơm rang dưa bò",
+  "description": "cơm",
+  "category": "Thực phẩm chế biến",
+  "seller": "CR",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6463874fd969391c8455939c"
+      },
+      "public_id": "products/mhsfi7v2pzal2za4fnj0",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244303/products/mhsfi7v2pzal2za4fnj0.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:38:23.880Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463877fd969391c8455939d"
+  },
+  "price": 30000,
+  "ratings": 0,
+  "stock": 120,
+  "numOfReviews": 0,
+  "name": "Cơm rang thập cẩm",
+  "description": "cơm",
+  "category": "Thực phẩm chế biến",
+  "seller": "CR",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6463877fd969391c8455939e"
+      },
+      "public_id": "products/xjyd3gcq3mv8amsujffv",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244350/products/xjyd3gcq3mv8amsujffv.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:39:11.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646387acd969391c8455939f"
+  },
+  "price": 15000,
+  "ratings": 0,
+  "stock": 90,
+  "numOfReviews": 0,
+  "name": "Khoai tây chiên",
+  "description": "ktc",
+  "category": "Thực phẩm chế biến",
+  "seller": "KTC",
+  "images": [
+    {
+      "_id": {
+        "$oid": "646387acd969391c845593a0"
+      },
+      "public_id": "products/pgcxgck625dx3anv4tax",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244396/products/pgcxgck625dx3anv4tax.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:39:56.444Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646387d0d969391c845593a1"
+  },
+  "price": 15000,
+  "ratings": 0,
+  "stock": 1000,
+  "numOfReviews": 0,
+  "name": "Mực nướng",
+  "description": "15k/1",
+  "category": "Thực phẩm Khô - Gia Vị",
+  "seller": "DK",
+  "images": [
+    {
+      "_id": {
+        "$oid": "646387d0d969391c845593a2"
+      },
+      "public_id": "products/jefqt6g1eul2ck4ulqpq",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244432/products/jefqt6g1eul2ck4ulqpq.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:40:32.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638803d969391c845593a3"
+  },
+  "price": 35000,
+  "ratings": 0,
+  "stock": 120,
+  "numOfReviews": 0,
+  "name": "Cà phê sữa",
+  "description": "coffee",
+  "category": "Đồ uống - Giải khát",
+  "seller": "DU",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638803d969391c845593a4"
+      },
+      "public_id": "products/uep3m0i0acb32y0kkrg4",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244483/products/uep3m0i0acb32y0kkrg4.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:41:23.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638828d969391c845593a5"
+  },
+  "price": 20000,
+  "ratings": 0,
+  "stock": 140,
+  "numOfReviews": 0,
+  "name": "Nước chanh leo",
+  "description": "nước",
+  "category": "Đồ uống - Giải khát",
+  "seller": "DU",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638828d969391c845593a6"
+      },
+      "public_id": "products/wrkwnrx9zmz2e7zodily",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244520/products/wrkwnrx9zmz2e7zodily.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:42:00.501Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638850d969391c845593a7"
+  },
+  "price": 40000,
+  "ratings": 0,
+  "stock": 120,
+  "numOfReviews": 0,
+  "name": "Cơm rang đùi gà",
+  "description": "cơm",
+  "category": "Thực phẩm chế biến",
+  "seller": "CR",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638850d969391c845593a8"
+      },
+      "public_id": "products/uqqeornlxcckv2clcfzo",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244560/products/uqqeornlxcckv2clcfzo.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:42:40.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463888cd969391c845593a9"
+  },
+  "price": 45000,
+  "ratings": 0,
+  "stock": 100,
+  "numOfReviews": 0,
+  "name": "Humburger",
+  "description": "humburger",
+  "category": "Thực phẩm chế biến",
+  "seller": "HBG",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6463888cd969391c845593aa"
+      },
+      "public_id": "products/ey7ftwuhq2hs264qb2vd",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244620/products/ey7ftwuhq2hs264qb2vd.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:43:40.912Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646388d5d969391c845593ab"
+  },
+  "price": 45000,
+  "ratings": 0,
+  "stock": 350,
+  "numOfReviews": 0,
+  "name": "Khô gà",
+  "description": "45k/ 1 hộp",
+  "category": "Bánh kẹo - Đồ ăn vặt",
+  "seller": "KG",
+  "images": [
+    {
+      "_id": {
+        "$oid": "646388d5d969391c845593ac"
+      },
+      "public_id": "products/vvrzmqezxmlruczdm1z5",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244693/products/vvrzmqezxmlruczdm1z5.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:44:53.604Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638904d969391c845593af"
+  },
+  "price": 30000,
+  "ratings": 0,
+  "stock": 40,
+  "numOfReviews": 0,
+  "name": "Milo dầm",
+  "description": "milo",
+  "category": "Đồ uống - Giải khát",
+  "seller": "ML",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638904d969391c845593b0"
+      },
+      "public_id": "products/eukrkouccftp0beaosjg",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244739/products/eukrkouccftp0beaosjg.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:45:40.006Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6463899ed969391c845593b1"
+  },
+  "price": 5000,
+  "ratings": 0,
+  "stock": 1312,
+  "numOfReviews": 0,
+  "name": "Nem chua rán",
+  "description": "5k/1",
+  "category": "Thực phẩm chế biến",
+  "seller": "NC",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6463899ed969391c845593b2"
+      },
+      "public_id": "products/soamudhragof84ix7ua7",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244894/products/soamudhragof84ix7ua7.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:48:14.532Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646389bad969391c845593b3"
+  },
+  "price": 15000,
+  "ratings": 0,
+  "stock": 200,
+  "numOfReviews": 0,
+  "name": "Trà chanh",
+  "description": "chanh",
+  "category": "Đồ uống - Giải khát",
+  "seller": "NC",
+  "images": [
+    {
+      "_id": {
+        "$oid": "646389bad969391c845593b4"
+      },
+      "public_id": "products/e4wrj9isybcy9rmlmxmp",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244922/products/e4wrj9isybcy9rmlmxmp.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:48:42.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646389d9d969391c845593b5"
+  },
+  "price": 25000,
+  "ratings": 0,
+  "stock": 90,
+  "numOfReviews": 0,
+  "name": "Salat rau củ",
+  "description": "rau củ",
+  "category": "Rau-Củ-Trái cây",
+  "seller": "SL",
+  "images": [
+    {
+      "_id": {
+        "$oid": "646389d9d969391c845593b6"
+      },
+      "public_id": "products/qhy9kbdxgxfko9zsvxvs",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244953/products/qhy9kbdxgxfko9zsvxvs.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:49:13.628Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646389f5d969391c845593b7"
+  },
+  "price": 35000,
+  "ratings": 0,
+  "stock": 80,
+  "numOfReviews": 0,
+  "name": "Salat hoa quả",
+  "description": "hoa quả",
+  "category": "Rau-Củ-Trái cây",
+  "seller": "SL",
+  "images": [
+    {
+      "_id": {
+        "$oid": "646389f5d969391c845593b8"
+      },
+      "public_id": "products/ecxzbez5c5zcunqrqslo",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684244981/products/ecxzbez5c5zcunqrqslo.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:49:41.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638a23d969391c845593b9"
+  },
+  "price": 20000,
+  "ratings": 0,
+  "stock": 111,
+  "numOfReviews": 0,
+  "name": "Nước dâu",
+  "description": "dâu",
+  "category": "Đồ uống - Giải khát",
+  "seller": "DU",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638a23d969391c845593ba"
+      },
+      "public_id": "products/g4zrw4sbtmf3wmzji7am",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684245026/products/g4zrw4sbtmf3wmzji7am.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:50:27.066Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638a4ad969391c845593bb"
+  },
+  "price": 35000,
+  "ratings": 0,
+  "stock": 120,
+  "numOfReviews": 0,
+  "name": "Trà sữa trân châu",
+  "description": "trasua",
+  "category": "Đồ uống - Giải khát",
+  "seller": "DU",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638a4bd969391c845593bc"
+      },
+      "public_id": "products/phm30y63wgbe5dgberbb",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684245066/products/phm30y63wgbe5dgberbb.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:51:07.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638a7cd969391c845593bd"
+  },
+  "price": 2000,
+  "ratings": 0,
+  "stock": 1000,
+  "numOfReviews": 0,
+  "name": "Trứng cút lộn",
+  "description": "2k/1",
+  "category": "Thịt-Trứng-Hải sản",
+  "seller": "TC",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638a7cd969391c845593be"
+      },
+      "public_id": "products/sdj75m8ayazuakclv5wo",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684245115/products/sdj75m8ayazuakclv5wo.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:51:56.085Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64638aa2d969391c845593bf"
+  },
+  "price": 7000,
+  "ratings": 0,
+  "stock": 120,
+  "numOfReviews": 0,
+  "name": "Trứng vịt lộn",
+  "description": "7k/1",
+  "category": "Thịt-Trứng-Hải sản",
+  "seller": "TV",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64638aa2d969391c845593c0"
+      },
+      "public_id": "products/azcfm2ot3onftnnf9pkz",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1684245153/products/azcfm2ot3onftnnf9pkz.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "64630e76374f6825a4477b5d"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-05-16T13:52:34.065Z"
+  },
+  "__v": 0
+}]

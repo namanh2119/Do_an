@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "646085bb2f365f16c084c267"
+  },
+  "itemsPrice": 45000,
+  "taxPrice": 450,
+  "shippingPrice": 10000,
+  "totalPrice": 55450,
+  "orderStatus": "Đã giao hàng",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "646085bb2f365f16c084c268"
+      },
+      "product": {
+        "$oid": "641f18e21af50148dc912eee"
+      },
+      "name": "Bánh mì 2",
+      "price": 45000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1683774654/products/wwwoebu5s1j5abq4xrmv.jpg",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "33a ",
+    "city": "Ha Noi",
+    "phoneNo": "0123456789",
+    "postalCode": "10",
+    "country": "Vietnam"
+  },
+  "paymentInfo": {
+    "id": "pi_3N7YpRJLhg7NWjUB1k9bDK37",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-05-14T06:54:51.723Z"
+  },
+  "user": {
+    "$oid": "6460843e2f365f16c084c266"
+  },
+  "createdAt": {
+    "$date": "2023-05-14T06:54:51.728Z"
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2023-05-14T06:56:19.418Z"
+  }
+},{
+  "_id": {
+    "$oid": "6460efa29d51ff34ac1c7720"
+  },
+  "itemsPrice": 105000,
+  "taxPrice": 1050,
+  "shippingPrice": 0,
+  "totalPrice": 106050,
+  "orderStatus": "Đang vận chuyển",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "6460efa29d51ff34ac1c7721"
+      },
+      "product": {
+        "$oid": "6460ac4b0ad40f11f4e9b9c1"
+      },
+      "name": "Trà chanh",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1684057162/products/nlhu56fjgwkupctifhnv.jpg",
+      "quantity": 7
+    }
+  ],
+  "shippingInfo": {
+    "address": "33a ",
+    "city": "Ha Noi",
+    "phoneNo": "0123456789",
+    "postalCode": "10",
+    "country": "Vietnam"
+  },
+  "paymentInfo": {
+    "id": "pi_3N7fsiJLhg7NWjUB1uc0Nfzw",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-05-14T14:26:42.530Z"
+  },
+  "user": {
+    "$oid": "6460843e2f365f16c084c266"
+  },
+  "createdAt": {
+    "$date": "2023-05-14T14:26:42.544Z"
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2023-05-15T08:38:47.631Z"
+  }
+},{
+  "_id": {
+    "$oid": "648b18b814310a06b817886f"
+  },
+  "itemsPrice": 105000,
+  "taxPrice": 1050,
+  "shippingPrice": 0,
+  "totalPrice": 106050,
+  "orderStatus": "Đã đặt hàng",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "648b18b814310a06b8178870"
+      },
+      "product": {
+        "$oid": "641f17c41af50148dc912ee8"
+      },
+      "name": "Cơm rang dưa bò",
+      "price": 35000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1683774565/products/pldpn2n6dfmldhyvzlki.jpg",
+      "quantity": 3
+    }
+  ],
+  "shippingInfo": {
+    "address": "33a 13",
+    "city": "Ha Noi",
+    "phoneNo": "0123456789",
+    "postalCode": "1032",
+    "country": "Vietnam"
+  },
+  "paymentInfo": {
+    "id": "pi_3N81toJLhg7NWjUB0oujbVIs",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-06-15T13:57:12.429Z"
+  },
+  "user": {
+    "$oid": "6460843e2f365f16c084c266"
+  },
+  "createdAt": {
+    "$date": "2023-06-15T13:57:12.444Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64623ed5383b5d3bd8457c18"
+  },
+  "itemsPrice": 100000,
+  "taxPrice": 1000,
+  "shippingPrice": 10000,
+  "totalPrice": 111000,
+  "orderStatus": "Đã đặt hàng",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "64623ed5383b5d3bd8457c19"
+      },
+      "product": {
+        "$oid": "641f17c41af50148dc912ee8"
+      },
+      "name": "Cơm rang dưa bò",
+      "price": 35000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1683774565/products/pldpn2n6dfmldhyvzlki.jpg",
+      "quantity": 2
+    },
+    {
+      "_id": {
+        "$oid": "64623ed5383b5d3bd8457c1a"
+      },
+      "product": {
+        "$oid": "6460ac4b0ad40f11f4e9b9c1"
+      },
+      "name": "Trà chanh",
+      "price": 15000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1684057162/products/nlhu56fjgwkupctifhnv.jpg",
+      "quantity": 2
+    }
+  ],
+  "shippingInfo": {
+    "address": "33a 13",
+    "city": "Ha Noi",
+    "phoneNo": "0123456789",
+    "postalCode": "1032",
+    "country": "Vietnam"
+  },
+  "paymentInfo": {
+    "id": "pi_3N82ClJLhg7NWjUB1glUEPJS",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-05-15T14:16:53.946Z"
+  },
+  "user": {
+    "$oid": "6460843e2f365f16c084c266"
+  },
+  "createdAt": {
+    "$date": "2023-05-15T14:16:53.968Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646314e25b1fd91c80f20009"
+  },
+  "itemsPrice": 100000,
+  "taxPrice": 1000,
+  "shippingPrice": 10000,
+  "totalPrice": 111000,
+  "orderStatus": "Đang vận chuyển",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "646314e25b1fd91c80f2000a"
+      },
+      "product": {
+        "$oid": "641f176f1af50148dc912ee6"
+      },
+      "name": "Hamberger",
+      "price": 50000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1683774490/products/mffhbn6qibpdvi0eyiia.jpg",
+      "quantity": 2
+    }
+  ],
+  "shippingInfo": {
+    "address": "33a 13",
+    "city": "Ha Noi",
+    "phoneNo": "0123456789",
+    "postalCode": "1032",
+    "country": "Vietnam"
+  },
+  "paymentInfo": {
+    "id": "pi_3N8GSZJLhg7NWjUB0SPeRWke",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-05-16T05:30:10.344Z"
+  },
+  "user": {
+    "$oid": "64609460ee482e078ca2cd0f"
+  },
+  "createdAt": {
+    "$date": "2023-05-16T05:30:10.364Z"
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2023-05-16T05:30:53.055Z"
+  }
+},{
+  "_id": {
+    "$oid": "64637cb919ecc0323cc1e85a"
+  },
+  "itemsPrice": 80000,
+  "taxPrice": 800,
+  "shippingPrice": 10000,
+  "totalPrice": 90800,
+  "orderStatus": "Đã đặt hàng",
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "64637cb919ecc0323cc1e85b"
+      },
+      "product": {
+        "$oid": "641f19a31af50148dc912ef2"
+      },
+      "name": "bánh mì 4",
+      "price": 25000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1683774710/products/pm5xekvyl8yswv9bsyu1.webp",
+      "quantity": 2
+    },
+    {
+      "_id": {
+        "$oid": "64637cb919ecc0323cc1e85c"
+      },
+      "product": {
+        "$oid": "64631bf3d6b4c71790037af2"
+      },
+      "name": "Salat rau củ",
+      "price": 30000,
+      "image": "https://res.cloudinary.com/crazybeer28/image/upload/v1684216818/products/qzrgtmnc7bqizthxgqoi.jpg",
+      "quantity": 1
+    }
+  ],
+  "shippingInfo": {
+    "address": "33a 13",
+    "city": "Ha Noi",
+    "phoneNo": "0123456789",
+    "postalCode": "1032",
+    "country": "Vietnam"
+  },
+  "paymentInfo": {
+    "id": "pi_3N8NNLJLhg7NWjUB0jw1aHH0",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2023-05-16T12:53:13.630Z"
+  },
+  "user": {
+    "$oid": "64609460ee482e078ca2cd0f"
+  },
+  "createdAt": {
+    "$date": "2023-05-16T12:53:13.639Z"
+  },
+  "__v": 0
+}]
