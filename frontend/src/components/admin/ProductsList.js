@@ -84,7 +84,6 @@ const ProductsList = ({ history }) => {
                     <button className="btn btn-danger py-1 px-2 ml-2" data-toggle="modal" data-target="#exampleModal" onClick={() => deleteProductHandler(product._id, product.name)}>
                         <i className="fa fa-trash"></i>
                     </button>
-                    
                 </Fragment>
             })
         })
@@ -93,8 +92,9 @@ const ProductsList = ({ history }) => {
     }
 
     const deleteProductHandler = (id, name) => {    
-        let text = `Bạn có muốn xóa ${name} không ?`;
-        if (confirm(text) == true) {
+        const text = `Bạn có muốn xóa ${name} không ?`;
+        // eslint-disable-next-line
+        if (confirm(text) === true) {
             dispatch(deleteProduct(id))
         }
     }
