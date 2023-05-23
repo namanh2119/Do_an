@@ -1,4 +1,4 @@
-# Đề tài: Website bán hàng trực tuyến
+# Đề tài: Xây dựng và phát triển hệ thống website bán đồ ăn
 
 ## Hướng phát triển trong tương lai:
 -	Áp dụng công nghệ như AI, Machine Learning để gợi ý sản phẩm cho khách hàng
