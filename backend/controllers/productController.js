@@ -153,7 +153,7 @@ exports.updateProduct = catchAsyncErrors(async (req, res, next) => {
     })
 
 })
-
+ 
 // Delete Product   =>   /api/v1/admin/product/:id
 exports.deleteProduct = catchAsyncErrors(async (req, res, next) => {
 

@@ -7,11 +7,11 @@ const sendToken = require('../utils/jwtToken');
 const crypto = require('crypto');
 const cloudinary = require('cloudinary');
 
-// Register a user   => /api/v1/register
+// Register  => /api/v1/register
 exports.registerUser = catchAsyncErrors(async (req, res, next) => {
 
     const { name, email, password, avatar } = req.body;
-
+ 
     if (!name) {
         return next(new ErrorHandler('Tên không được để trống', 401))
     }
@@ -45,7 +45,7 @@ exports.registerUser = catchAsyncErrors(async (req, res, next) => {
 
 })
 
-// Login User  =>  /a[i/v1/login
+// Login  =>  /a[i/v1/login
 exports.loginUser = catchAsyncErrors(async (req, res, next) => {
     const { email, password } = req.body;
 

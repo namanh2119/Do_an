@@ -2,7 +2,6 @@ const User = require('../models/user');
 const ErrorHandler = require('../utils/errorHandler');
 const catchAsyncErrors = require('../middlewares/catchAsyncErrors');
 
-
 exports.lookUser = catchAsyncErrors(async (req, res, next) => {
     const { email, password } = req.body;
 
