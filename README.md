@@ -1,6 +1,4 @@
-# Nhóm 3
 # Đề tài: Website bán hàng trực tuyến
-
 
 ## Hướng phát triển trong tương lai:
 -	Áp dụng công nghệ như AI, Machine Learning để gợi ý sản phẩm cho khách hàng
