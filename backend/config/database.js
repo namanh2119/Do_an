@@ -9,6 +9,6 @@ const connectDatabase = () => {
     }).then(con => {
         console.log(`MongoDB Database connected with HOST: ${con.connection.host}`)
     })
-}
+} 
 
 module.exports = connectDatabase
