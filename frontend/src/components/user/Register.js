@@ -1,4 +1,4 @@
-import React, { Fragment, useState, useEffect } from 'react'
+import React, { Fragment, useState, useEffect } from 'react' 
 
 import MetaData from '../layout/MetaData'
 import Loader from '../layout/Loader'

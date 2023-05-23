@@ -1,4 +1,4 @@
-import React, { Fragment, useState, useEffect } from 'react'
+import React, { Fragment, useState, useEffect } from 'react' 
 import { Carousel } from 'react-bootstrap'
 
 import Loader from '../layout/Loader'

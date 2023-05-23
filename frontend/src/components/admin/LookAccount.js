@@ -1,5 +1,4 @@
 import React, { Fragment, useState, useEffect } from 'react'
-
 import MetaData from '../layout/MetaData'
 import Sidebar from './Sidebar'
 

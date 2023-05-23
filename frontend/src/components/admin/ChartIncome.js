@@ -25,7 +25,6 @@ export default function ChartIncome() {
         []
     );
 
-
     useEffect(() => {
         const getStats = async () => {
             try {

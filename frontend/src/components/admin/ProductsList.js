@@ -84,28 +84,7 @@ const ProductsList = ({ history }) => {
                     <button className="btn btn-danger py-1 px-2 ml-2" data-toggle="modal" data-target="#exampleModal" onClick={() => deleteProductHandler(product._id, product.name)}>
                         <i className="fa fa-trash"></i>
                     </button>
-                    {/* model delete */}
-                    {/* <div>
-                        <div className="modal fade" id="exampleModal" tabIndex={-1} role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                            <div className="modal-dialog" role="document">
-                                <div className="modal-content">
-                                    <div className="modal-header">
-                                        <h5 className="modal-title" id="exampleModalLabel">Thông báo!</h5>
-                                        <button type="button" className="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">×</span>
-                                        </button>
-                                    </div>
-                                    <div class="modal-body">
-                                        {`Bạn có muốn xóa ${product.name} không?`}
-                                    </div>
-                                    <div className="modal-footer">
-                                        <button type="button" className="btn btn-secondary" data-dismiss="modal">Hủy</button>
-                                        <button type="button" className="btn btn-danger" onClick={() => deleteProductHandler(product._id)} data-dismiss="modal">Xóa</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div> */}
+                    
                 </Fragment>
             })
         })

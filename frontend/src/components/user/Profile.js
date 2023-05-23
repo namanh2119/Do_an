@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 
 import Loader from '../layout/Loader'
-import MetaData from '../layout/MetaData'
+import MetaData from '../layout/MetaData' 
 
 const Profile = () => {
 

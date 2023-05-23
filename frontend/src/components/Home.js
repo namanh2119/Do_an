@@ -96,7 +96,7 @@ const Home = ({ match }) => {
                     ))}
                 </ul>
             </div>
-            <br />
+            <br /> 
             {loading ? <Loader /> : (
                 <Fragment>
                     <MetaData title={'Website bán hàng trực tuyến'} />

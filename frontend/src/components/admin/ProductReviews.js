@@ -1,6 +1,5 @@
 import React, { Fragment, useState, useEffect } from 'react'
 import { MDBDataTable } from 'mdbreact'
-
 import MetaData from '../layout/MetaData'
 import Sidebar from './Sidebar'
 

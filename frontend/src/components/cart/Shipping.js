@@ -1,5 +1,4 @@
 import React, { Fragment, useState } from 'react'
-// import { countries } from 'countries-list'
 
 import MetaData from '../layout/MetaData'
 import CheckoutSteps from './CheckoutSteps'
@@ -8,8 +7,6 @@ import { useDispatch, useSelector } from 'react-redux'
 import { saveShippingInfo } from '../../actions/cartActions'
 
 const Shipping = ({ history }) => {
-
-    // const countriesList = Object.values(countries)
 
     const { shippingInfo } = useSelector(state => state.cart)
 
